@@ -178,7 +178,7 @@ if not os.name == 'nt':
     print(f'{error}{r} Automation supports only Windows systems')
     sys.exit()
 
-program = 'usradder.py'
+program = 'useradderbot.py'
 o = str(len(to_use))
 print(f'\n{info}{r} This will be fully automated.')
 print(f'{info}{r} Don\'t touch the keyboard until cmd window pop-up stops')
