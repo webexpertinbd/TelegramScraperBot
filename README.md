@@ -48,10 +48,7 @@ This code help you to scrape Telegram groups members and can add them to your sp
 
 # Note
 
-Sometimes users may not get added at all, this may be because the account is probably limited or you entered a channel. Try with another account. 
-
-# Author
-https://www.facebook.com/SazzadRahel
+Sometimes users may not get added at all, this may be because the account is probably limited or you entered a channel. Try with another account.
 
 # Warning
 
@@ -60,5 +57,7 @@ https://www.facebook.com/SazzadRahel
 # News
 
 * I have also created a scraper and adder which lets you add accounts only via phone number(no api needed). If you need it contact me:
- 
-[![Telegram Contact](https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/262366123_100301595838548_3322692104381236255_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=VHW5HYh5NI0AX8xTgX9&_nc_ht=scontent.fdac116-1.fna&oh=00_AT_JNFW8UOqnyf2hxV_XOnYJK8TY_NEoOWu3E85f7jYGzA&oe=63398CB5)](https://t.me/walkerscape) 
+
+# Author
+Fagebook Page - https://www.facebook.com/SazzadRahel
+Telegram Contact - https://t.me/walkerscape
