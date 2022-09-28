@@ -29,7 +29,7 @@ def banner():
     logo = f.renderText('Telegram')
     print(random.choice(colors) + logo + rs)
     print(f'{info}{g} Telegram Adder[USERNAME] V1.1{rs}')
-    print(f'{info}{g} Author: github.com/sazzadrahel{rs}\n')
+    print(f'{info}{g} Author: https://github.com/sazzadrahel{rs}\n')
 
 def clscreen():
     os.system('cls')
