@@ -40,11 +40,11 @@ This code help you to scrape Telegram groups members and can add them to your sp
 
 * Scrape members
 
-`python scraper.py`
+`python scraperbot.py`
 
 * Add members
 
-`python tsadder.py`
+`python tgadderbot.py`
 
 # Note
 
@@ -60,4 +60,5 @@ Sometimes users may not get added at all, this may be because the account is pro
 
 # Author
 Fagebook Page - https://www.facebook.com/SazzadRahel
+
 Telegram Contact - https://t.me/walkerscape
