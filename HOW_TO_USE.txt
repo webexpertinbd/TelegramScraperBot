@@ -25,9 +25,9 @@ v) To delete accounts, choose option 4
    Then choose an account to delete and hit enter
 
 
-step 2: Scraping members using scraper.py
+step 2: Scraping members using scraperbot.py
 
-i) Run in terminal >>> python scraper.py
+i) Run in terminal >>> python scraperbot.py
 ii) Choose an account in order to scrape and hit enter
 iii) Choose whether to scrape from public group or private group
      PUBLIC GROUPS
@@ -39,9 +39,9 @@ iii) Choose whether to scrape from public group or private group
  
      Then it'll ask whether to filter active users[LAST SEEN RECENTLY]. Choose y/n and proceed
 
-step 3: Adding members using tsadder.py
+step 3: Adding members using tgadderbot.py
 
-i) Launch in terminal >>> python tsadder.py
+i) Launch in terminal >>> python tgadderbot.py
 ii) It'll create sessions and will ask for login code if not logged in. IF YOU DO NOT HAVE LOGIN CODE,
     PRESS 's' AND HIT ENTER TO SKIP
 iii) Then enter username of the public group without @ sign. It'll join from all accounts
