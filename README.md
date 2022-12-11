@@ -61,4 +61,4 @@ Sometimes users may not get added at all, this may be because the account is pro
 # Author
 Fagebook Page - https://www.facebook.com/SazzadRahel
 
-Telegram Contact - https://t.me/walkerscape
+Telegram Contact - https://t.me/sazzadrahel
